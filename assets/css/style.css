@@ -139,7 +139,7 @@ img {
 
 .img-text{
     position: absolute;
-    width: 250px;
+    /* width: 250px; */
     height: 40px;
     background: #4aaaa5;
     font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
@@ -150,21 +150,25 @@ img {
 #img-text-1 {
     margin-left: 20px;
     margin-top: 220px;
+    width: 330.09px;
 }
 
 #img-text-2 {
-    margin-left: 310px;
+    margin-left: 390.09px;
     margin-top: 220px;
+    width: 335.34px;
 }
 
 #img-text-3 {
     margin-left: 20px;
     margin-top: 220px;
+    width: 324.17px;
 }
 
 #img-text-4 {
-    margin-left: 310px;
+    margin-left: 384.17px;
     margin-top: 220px;
+    width: 323.97px;
 }
 
 #img-text-5 {
